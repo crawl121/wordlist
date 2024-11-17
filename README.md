@@ -1,6 +1,6 @@
-# ZWN_CRAWL - Wordlist Generator
+# WORDGEN - Wordlist Generator
 
-**ZWN_CRAWL** is a Python-based tool for generating custom wordlists based on user-defined characters and word lengths. It is designed for penetration testers, ethical hackers, and anyone who needs a tailored wordlist for various purposes.
+**WORDGEN** is a Python-based tool for generating custom wordlists based on user-defined characters and word lengths. It is designed for penetration testers, ethical hackers, and anyone who needs a tailored wordlist for various purposes.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## Prerequisites
 
-Before using **ZWN_CRAWL**, make sure you have the following installed:
+Before using **WORDGEN**, make sure you have the following installed:
 
 - **Python 3.x**: Verify by running `python --version` or `python3 --version`.
 - **pip**: Python package installer (comes with Python).
