@@ -30,6 +30,19 @@ Before using **WORDGEN**, make sure you have the following installed:
 Download the tool from GitHub by running the following command in your terminal or command prompt:
 
 ```bash
-[git clone https://github.com/crawl121/wordlist.git]
+git clone https://github.com/crawl121/wordlist.git
+```
+```bash
 cd wordlist
+```
+
+
+## Authors
+
+- [@crawl121](https://github.com/crawl121)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 
