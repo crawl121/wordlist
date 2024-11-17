@@ -30,5 +30,6 @@ Before using **ZWN_CRAWL**, make sure you have the following installed:
 Download the tool from GitHub by running the following command in your terminal or command prompt:
 
 ```bash
-git clone https://github.com/yourusername/zwn_crawl.git
-cd zwn_crawl
+[git clone https://github.com/crawl121/wordlist.git]
+cd wordlist
+
